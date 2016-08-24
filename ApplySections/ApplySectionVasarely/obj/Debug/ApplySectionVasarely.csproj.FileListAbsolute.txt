@@ -1,0 +1,36 @@
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.exe.config
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.exe
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.pdb
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csprojResolveAssemblyReference.cache
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\Interop.Office.dll
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\Interop.RobotOM.dll
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csproj.ResolveComReference.cache
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.Form1.resources
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.Properties.Resources.resources
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csproj.GenerateResource.Cache
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.exe
+D:\BCANTENEUR\Bureau\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.pdb
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.exe.config
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\Interop.Office.dll
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\Interop.RobotOM.dll
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csproj.ResolveComReference.cache
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.exe
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.pdb
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.exe
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.pdb
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csprojResolveAssemblyReference.cache
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.Form1.resources
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.Properties.Resources.resources
+D:\BCANTENEUR\Bureau\Passerelle Vasarely\Etude Structurelle\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csproj.GenerateResource.Cache
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.exe.config
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\Interop.Office.dll
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\Interop.RobotOM.dll
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csproj.ResolveComReference.cache
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.exe
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.pdb
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.exe
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\bin\Debug\ApplySectionVasarely.pdb
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csprojResolveAssemblyReference.cache
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.Form1.resources
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.Properties.Resources.resources
+D:\BCANTENEUR\Mes Documents\Passerelle Vasarely\1 - Etudes 3D\ApplySectionVasarely\ApplySectionVasarely\obj\Debug\ApplySectionVasarely.csproj.GenerateResource.Cache
